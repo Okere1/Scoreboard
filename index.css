@@ -1,0 +1,51 @@
+* {
+  background-image: url(./building.jpeg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+h1 {
+  text-align: center;
+  border: 0px;
+  width: 250px;
+  background: green;
+  display: block;
+}
+
+h2 {
+  text-align: center;
+  border: 0px;
+  width: 70px;
+  background: green;
+  display: block;
+}
+
+button {
+  background: red;
+  width: 200px;
+  height: 30px;
+  border-radius: 5px;
+  color: white;
+  text-transform: uppercase;
+  font-size: 15px;
+  font-weight: bold;
+  padding: auto;
+}
+
+#save-btn {
+  background: green;
+}
+.box {
+  border: 1px solid blue;
+  padding: 10px;
+  width: 50%;
+}
+
+#txtId {
+  color: white;
+  background: rgb(93, 182, 130);
+  height: 50px;
+  border: 1px solid gray;
+  border-radius: 5px;
+}
